@@ -20,7 +20,6 @@ void dkinar2_wbibi2() {
   printf("Nikki Kinarasri and Bonnie Bibian\n");
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
   printf("Installing git locally and learning how to use it was challenging\n");
-  
 }
 
 int main()
